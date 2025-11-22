@@ -1,5 +1,5 @@
 # Student-Result-Analysis
-created a python program to take 4 years mid terms and finals marks and the graph you want. Getting scores of 4year and required graph.
+    created a python program to take 4 years mid terms and finals marks and the graph you want. Getting scores of 4year and required graph.
 
 ## features
     1)making of list
@@ -17,5 +17,11 @@ created a python program to take 4 years mid terms and finals marks and the grap
     2)run the code in jupyter notebook
     3)download the code from jupyter notebook to download file
 
+## Instructions for testing
+    1) enter midterm marks less then 300
+    2) enter end term marks less then 600
+    3) enter internal marks less than 60
+
 ## screenshot
+  <img width="641" height="788" alt="image" src="https://github.com/user-attachments/assets/6a1c1b35-4f85-40df-a858-0fb7e32aece7" />
 
